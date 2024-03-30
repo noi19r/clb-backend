@@ -1,0 +1,17 @@
+club
+- thêm thành viên ( club || admin)           
+- xoá thành viên ( club || admin)            
+- tạo club (admin)                           
+- xem all club (admin || user || club )     
+- xem club theo id                           
+- xoá club ( admin )                         
+- sửa club (club || admin)                   
+
+event 
+- tạo (   club)
+- xoá (admin | club)
+- lây thông tin
+- câp nhật ( club)
+
+
+
